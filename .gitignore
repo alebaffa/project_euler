@@ -1,0 +1,6 @@
+bin/
+*.exe
+.classpath
+.project
+.recommenders/
+.metadata/
